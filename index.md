@@ -9,5 +9,9 @@ Add a code example
 doas pacman -Syyu
 ```
 #### This is the fourth level header
+Make a tasks list
+- [x] This is the first finished task
+- [x] This is the second finished task
+- [ ] This is the task that isn't finished yet
 ##### This is the fifth level header
 ###### This is the sixth level header
